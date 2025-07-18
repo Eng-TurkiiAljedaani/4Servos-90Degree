@@ -1,4 +1,4 @@
-# 4Servos-90Degree
+# 4Servos-90Degree<br><br>
 <br><br>
 <br><br>
 In this part I programmed the servo to rotate 90 degrees, connected it to the Arduino, then connected 4 servos, programmed them and operated them as shown.
